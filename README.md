@@ -8,5 +8,5 @@
   - [Project Excellence Award](cfg-web-dev-project.pdf)
 
 ### MOOC Sprint Courses (4 evening classes each)
-* [UX/UI and Accessibility Design](cfg-bug-fixing.pdf) 2022
-* [Bug Fixing](cfg-ux-ui.pdf) 2022
+* [UX/UI and Accessibility Design](cfg-ux-ui.pdf) 2022
+* [Bug Fixing](cfg-bug-fixing.pdf) 2022
