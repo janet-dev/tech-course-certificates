@@ -9,8 +9,8 @@
 
 ## East Kent (Ashford) College, UK
 ### Diploma in Web Application Development - Level 5
-* [Grade](web-appl5-grade.jpeg) 2023
-* [Credits](web-appl5-credits.jpeg) 2023
+* [Grade](web-app-l5-grade.jpeg) 2023
+* [Credits](web-app-l5-credits.jpeg) 2023
 
 ## Edge Hill University, UK
 ### Institute of Coding Skills Bootcamp - Level 4 CPD
