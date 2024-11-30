@@ -1,20 +1,32 @@
-# Tech Course Certificates/Badges
+# Tech Course Awards
 
-## PL-900: Microsoft Power Platform Fundamentals
-### Microsoft
-* [Microsoft Certificate](ms-pl900.png) 2024
-* [Microsoft Credentials](https://learn.microsoft.com/en-us/users/janetdornan-1391/credentials/certification/power-platform-fundamentals?tab=credentials-tab)
-### Udemy
-* [Udemy Certificate](uc-pl900.jpg) 2024
+## Microsoft Certification/Badges
+### PL-900: Microsoft Power Platform Fundamentals
+* [Microsoft Credentials](https://learn.microsoft.com/en-us/users/janetdornan-1391/credentials/certification/power-platform-fundamentals?tab=credentials-tab) 2024
+  - [Microsoft Certificate](ms-pl900.png)
+  - [Udemy Certificate](uc-pl900.jpg)
+
+### Microsoft Power Up Program
+* [Microsoft Badge](https://www.credly.com/badges/00b2aa00-42ea-4d06-aa87-85b45291bb47/linked_in_profile) 2023
+  - Challenge Project: [Paws on Heart Animal Shelter](https://github.com/janet-dev/power-up-animal-shelter)
+
+<hr>
 
 ## East Kent (Ashford) College, UK
-### Diploma in Web Application Development - Level 5
-* [Grade](web-app-l5-grade.jpeg) 2023
-* [Credits](web-app-l5-credits.jpeg) 2023
+### Web Application Development - Level 5 Diploma
+* [Grade](web-app-l5-grade.jpeg) [ and Credits - L5/6](web-app-l5-credits.jpeg) 2023
+  - Milestone Project 1: [LevelCoder](https://github.com/janet-dev/ci-milestone-project-1) - L5 Pass
+  - Milestone Project 2: [Box Hunt](https://github.com/janet-dev/ci-milestone-project-2) - L5 Merit
+  - Milestone Project 3: [Vazy Garden](https://github.com/janet-dev/ci-milestone-project-3) - L5 Distinction
+  - Milestone Project 4: [ClickCollect](https://github.com/janet-dev/ci-milestone-project-4) - L6 Merit
+
+<hr>
 
 ## Edge Hill University, UK
 ### Institute of Coding Skills Bootcamp - Level 4 CPD
 * [Cloud Computing & Data Analytics](ioc-cloud-data.jpg) 2021
+
+<hr>
 
 ## Code First Girls, UK
 ### Coding Kickstarter Courses (8 evening classes each)
