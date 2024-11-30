@@ -5,7 +5,7 @@
 * [Microsoft Certificate](ms-pl900.png) 2024
 * [Microsoft Credentials](https://learn.microsoft.com/en-us/users/janetdornan-1391/credentials/certification/power-platform-fundamentals?tab=credentials-tab)
 ### Udemy
-* [Udemy Certificate](uc-pl900.png) 2024
+* [Udemy Certificate](uc-pl900.jpg) 2024
 
 ## East Kent (Ashford) College, UK
 ### Diploma in Web Application Development - Level 5
