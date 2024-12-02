@@ -3,7 +3,7 @@
 ## Microsoft Certification/Badges
 ### PL-900: Microsoft Power Platform Fundamentals
 * [Microsoft Credentials](https://learn.microsoft.com/en-us/users/janetdornan-1391/credentials/certification/power-platform-fundamentals?tab=credentials-tab) 2024
-  - [Microsoft Certificate](ms-pl900.png)
+  - [Microsoft Certificate](media/ms-pl900.png)
   - [Udemy Certificate](uc-pl900.jpg)
 
 ### Microsoft Power Up Program
